@@ -6,8 +6,8 @@
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Language](https://img.shields.io/github/languages/top/Redislabs-Solution-Architects/Redis-Workshops)
-![GitHub last commit](https://img.shields.io/github/last-commit/Redislabs-Solution-Architects/Redis-Workshops)
+![Language](https://img.shields.io/github/languages/top/denisabrantesredis/denisd-GenAI-Workshop)
+![GitHub last commit](https://img.shields.io/github/last-commit/denisabrantesredis/denisd-GenAI-Workshop)
 
 </div>
 
